@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Furtivo4/Furtivo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Daniel Steven Holguin Restrepo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Universidad del Valle 
+- 🎓 Tecnologo en Desarrollo de software
+- Cursando la ingenieria
+
+
+<br>
+
+## Tecnologias que uso:
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=FIdVBOahSJu0&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
+
+  
+</p>
+
+
+
